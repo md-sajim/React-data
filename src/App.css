@@ -1,3 +1,11 @@
+.Fistclass {
+  color: rgb(245, 153, 16);
+  background: aqua;
+  border: 3px solid red;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+}
 .App {
   text-align: center;
 }
